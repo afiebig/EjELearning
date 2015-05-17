@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/PipeIWeas/Dropbox/EjELearning/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <array name="nav_drawer_icons">
+        <item>@drawable/inicio</item>
+        <item>@drawable/audio_visuales</item>
+        <item>@drawable/medios_digitales</item>
+        <item>@drawable/tecnologias_de_informacion</item>
+        <item>@drawable/web_multimedia</item>
+        <item>@drawable/login</item>
+    </array>
+    <string-array name="planets_array">
+        <item>Inicio</item>
+        <item>Audio Visuales</item>
+        <item>Medios Digitales</item>
+        <item>Tecnologias de Informacion</item>
+        <item>Web Multimedia</item>
+        <item>Login</item>
+    </string-array>
+    <!-- From: file:/C:/Users/PipeIWeas/Dropbox/EjELearning/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <!-- From: file:/C:/Users/PipeIWeas/Dropbox/EjELearning/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_websearch">Web search</string>
+    <string name="app_name">rpc Digital</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="30dp"
+        android:text="Servicios"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_marginLeft="5dp"/>
+
+    <TextView
+        android:id="@+id/txtLabel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="16dp"
+        android:text="Medios Digitales"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginLeft="5dp"/>
+    <TextView
+        android:id="@+id/txtLabel3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="16dp"
+        android:text="Como lo indica el concepto es una convergencia de medios, donde ponemos nuestro ingenio y talento para consolidar los distintos conceptos que representen a su compañía, en los diferentes medios que usted quiera estar presente, haciendo de ese concepto un arte digital que llegue transparente y directo a su cliente.
+Ponemos tu marca o negocio en internet, para que se viralize a traves de las redes sociales o simplemente aparezca en tu págian web corporativa."
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"/>
+
+    <ImageView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLabel"
+        android:src="@drawable/serv_medios"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"/>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/PipeIWeas/Dropbox/EjELearning/app/src/main/res/layout/fragment_medios_digitales.xml -->

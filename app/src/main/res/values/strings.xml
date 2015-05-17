@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">rpc Digital</string>
+    <string-array name="planets_array">
+        <item>Inicio</item>
+        <item>Audio Visuales</item>
+        <item>Medios Digitales</item>
+        <item>Tecnologias de Informacion</item>
+        <item>Web Multimedia</item>
+        <item>Login</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/inicio</item>
+        <item>@drawable/audio_visuales</item>
+        <item>@drawable/medios_digitales</item>
+        <item>@drawable/tecnologias_de_informacion</item>
+        <item>@drawable/web_multimedia</item>
+        <item>@drawable/login</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+</resources>
